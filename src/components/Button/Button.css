@@ -1,0 +1,22 @@
+.miBanner {
+    position: relative;
+    background-image: url('../images/btnimg.png'); 
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.miBoton {
+    position: absolute;
+    background-color: #FFB71B;
+    bottom: 20px; 
+    right: 20px; 
+    color: white; 
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px; 
+    margin: 4px 2px;
+    border-radius: 1px; 
+}

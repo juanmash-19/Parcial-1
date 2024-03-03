@@ -1,0 +1,18 @@
+.banner {
+    justify-content: 80px;
+    background-color: #fff; 
+    color: #000; 
+}
+
+.carousel .slide {
+    background-color: #ff0; 
+}
+
+.carousel .control-dots .dot {
+    background-color: #000; 
+}
+
+.carousel .control-next.control-arrow:before,
+.carousel .control-prev.control-arrow:before {
+    border-color: #000; 
+}
